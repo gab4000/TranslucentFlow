@@ -1,4 +1,4 @@
-# TranslucentFlow
+# 💧 TranslucentFlow
 A Translucent theme for Flow Launcher
 
 Today, we have translucent taskbar, translucent start menu, translucent notifications center... but not translucent Flow Launcher ! (we have, but not in the way I imagine)
